@@ -1,0 +1,21 @@
+section{
+  color: red;
+}
+
+nav{
+  display: inline-block;
+  direction: rtl;
+  text-decoration: none;
+  text-align: right;
+}
+
+.list{
+  background-color: chartreuse;
+  border-bottom: 1px solid darkblue;
+  padding: 20px;
+  margin: 10px;
+}
+.list:hover{
+  background-color: aqua;
+  font-size: 20px;
+}
